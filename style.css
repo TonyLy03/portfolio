@@ -39,5 +39,6 @@ a:active{color:rgb(3, 102, 250)}
 
 /* ----- Modifier styles ----- */
 .border{
-    padding: 70px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
