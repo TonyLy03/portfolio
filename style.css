@@ -1,11 +1,24 @@
+/* ----- General styles ----- */
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(79, 212, 245);
 }
 header{
     height: 125px;
     background-color: rgb(108, 247, 166);
 }
+footer{
+    background-color: rgb(108, 247, 166);
+}
+.fancy {
+    font-family: 'Courier New', Courier, monospace, cursive;
+    font-size: 75px;
+    color:rgb(34, 127, 250);
+    text-align: center;
+    padding: 30px;
+}
+/* ----- Type ----- */
 h1, h2, h3 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
@@ -23,3 +36,8 @@ a:hover{
     text-decoration: underline;
 }
 a:active{color:rgb(3, 102, 250)}
+
+/* ----- Modifier styles ----- */
+.border{
+    padding: 70px;
+}
