@@ -40,3 +40,6 @@ a:active{color:rgb(3, 102, 250)}
     padding-top: 70px;
     padding-bottom: 70px;
 }
+.center{
+    text-align: center;
+}
